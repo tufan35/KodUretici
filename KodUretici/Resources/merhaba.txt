@@ -1,0 +1,32 @@
+// Text boyutu "Ctrl+MouseTopu" kullanarak ayarlanabilir.
+// F5 tusu ile direkt kod uretilebilir.
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+
+@var1 (@tr@ttip @tvar,@tr)
+{
+@tr	this.@tvar = @tvar;
+@tr
+}
+
+
+public class @var1
+{   
+@tr    public @ttip @tvar { get; set; }
+@tr
+}
+
+/* ---- Komutlar ---- */
+@tr, @tr        //Tekrar ettirir
+@var1, @tip1    // Sabit degiskenler
+@kvar1, @ktip1  //Sabit degiskenlerin kucuk yazilisi
+@tvar, @ttip    //Tekrarli degiskenler
+@ktvar, @kttip  //Tekrarli degiskenlerin kucuk yazilisi
+/* ------------------ */
+
+// MsSql, Json, Xml, Nullable?, PK belirtmesi
+
+// Kod Uretici v1.4.5
+// Anil Canberk DURAN

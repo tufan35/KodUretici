@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KodUretici", "KodUretici\KodUretici.csproj", "{12E9266C-ADF8-494C-A9A5-12B14D6566CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E9266C-ADF8-494C-A9A5-12B14D6566CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E9266C-ADF8-494C-A9A5-12B14D6566CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E9266C-ADF8-494C-A9A5-12B14D6566CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E9266C-ADF8-494C-A9A5-12B14D6566CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC3652C-2172-4539-94B9-59E01EE22E3C}
+	EndGlobalSection
+EndGlobal
